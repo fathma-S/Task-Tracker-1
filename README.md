@@ -12,3 +12,4 @@ A simple web app where users can add, complete, and delete tasks.
 
 # Timeline
 - Hour 2: first pull request merged
+- Hour 2: added timeline update
